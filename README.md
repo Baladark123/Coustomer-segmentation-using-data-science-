@@ -11,7 +11,7 @@ This project demonstrates customer segmentation using data science techniques. T
 - Matplotlib
 - Seaborn
 # Installation
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/Baladark123/Coustomer-segmentation-using-data-science-/commits?author=Baladark123
 Navigate to the project directory: cd customer-segmentation
 Install the required dependencies: pip install -r requirements.txt
 # Usage
